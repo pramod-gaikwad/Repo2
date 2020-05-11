@@ -1,0 +1,10 @@
+ Volume in drive C is Os
+ Volume Serial Number is 961B-139E
+
+ Directory of C:\Users\TEST\Desktop\MyGitProject
+
+11-05-2020  14:18    <DIR>          .
+11-05-2020  14:18    <DIR>          ..
+11-05-2020  14:18                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  17,972,740,096 bytes free
